@@ -1,3 +1,7 @@
+> **Archived.** Active development has moved into [`C2TypeScript/translated-projects/ts-arcfour`](https://github.com/ScottMoore0/C2TypeScript/tree/main/translated-projects/ts-arcfour), where this project's full history is preserved as a git subtree.
+>
+> This repository stays in place, read-only, as the `repository` target of the published npm package.
+
 # ts-arcfour
 
 A direct TypeScript port of Brad Conte's ARCFOUR (RC4) reference implementation.
